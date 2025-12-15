@@ -46,4 +46,15 @@ Use at your own risk.
 
 ## 📜 License
 
-Add license information here.
+This project is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+### You are allowed to:
+- Use this project for **personal, educational, or non-commercial purposes**
+- Modify and adapt the code for personal use
+
+### You are NOT allowed to:
+- Use this project for **commercial purposes**
+- Sell, sublicense, or include this project in paid products or services
+
+### Requirements:
+- You must give appropriate credit to the original author
